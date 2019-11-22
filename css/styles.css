@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+.body-tag {
+    margin: 0;
+    padding: 0;
+    background-color: #03A9F4;
+}
+
+.greeting {
+    margin: 10px;
+    color: #03a9f4;
+    font-family: sans-serif;
+    padding: 40px 20px;
+    background-color: #f3f9fb;
+    border-radius: 8px;
+}
