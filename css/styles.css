@@ -11,6 +11,7 @@
 .greeting {
     margin: 10px;
     color: #fff;
+    border: 2px solid #fff;
     font-family: sans-serif;
     padding: 40px 20px;
     background-color: transparent;
