@@ -5,15 +5,80 @@
 .body-tag {
     margin: 0;
     padding: 0;
-    background-color: #1F06D6;
+    background-color: #0663d6;
+    color: #fff;
+    font-family: 'PT Sans', sans-serif;
+    min-height: 100vh;
+    padding: 0 20px;
 }
 
-.greeting {
-    margin: 10px;
+.width-container {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 940px;
+}
+
+.main-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 40px 0 20px 0;
+}
+
+.menu-links {
     color: #fff;
+    text-decoration: none;
+    margin: 0 0 0 20px;
+    padding: 0 0 8px 0;
+    border-bottom: 2px dotted transparent;
+    font-weight: bold;
+}
+
+.menu-links:hover {
+    border-bottom: 2px solid #fff;
+}
+
+.project-card {
     border: 2px solid #fff;
-    font-family: sans-serif;
+    color: #fff;
+    text-decoration: none;
     padding: 40px 20px;
     background-color: transparent;
     border-radius: 8px;
+    display: block;
+    margin: 0 0 10px 0;
+}
+
+.project-card:hover {
+    color: #0663d6;
+    background-color: #fff;
+}
+
+.project-card:hover .project-card__icon,
+.project-card:hover .project-card__globe,
+.project-card__globe-secondary {
+    fill: #0663d6;
+}
+
+.project-card__icon,
+.project-card__globe {
+    width: 80px;
+    fill: #fff;
+    margin: 0 0 10px 0;
+}
+
+.project-card__globe {
+    width: 34px;
+}
+
+.project-card:hover .project-card__globe-secondary {
+    fill: #fff;
+}
+
+.project-card__title {
+    margin: 0 0 5px 0;
+}
+
+.project-card__description {
+    margin: 0;
 }
