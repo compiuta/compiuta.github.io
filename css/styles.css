@@ -4,12 +4,11 @@
 
 .body-tag {
     margin: 0;
-    padding: 0;
     background-color: #0663d6;
     color: #fff;
     font-family: 'PT Sans', sans-serif;
     min-height: 100vh;
-    padding: 0 20px;
+    padding: 20px;
 }
 
 .width-container {
@@ -22,7 +21,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 40px 0 20px 0;
+    margin: 20px 0 20px 0;
 }
 
 .menu-links {
