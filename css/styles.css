@@ -56,13 +56,15 @@
 .project-card:hover .project-card__icon,
 .project-card:hover .project-card__globe,
 .project-card:hover .project-card__bulb,
+.project-card:hover .project-card__book,
 .project-card__globe-secondary {
     fill: #0663d6;
 }
 
 .project-card__icon,
 .project-card__globe,
-.project-card__bulb {
+.project-card__bulb,
+.project-card__book {
     fill: #fff;
     margin: 0 0 10px 0;
 }
@@ -72,7 +74,8 @@
 }
 
 .project-card__globe,
-.project-card__bulb {
+.project-card__bulb,
+.project-card__book {
     width: 34px;
 }
 
