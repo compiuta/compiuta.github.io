@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://compiuta.github.io/blog/</loc>
+    <loc>https://example.com/blog/</loc>
     <lastmod>2020-07-31T17:02:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://compiuta.github.io/</loc>
+    <loc>https://example.com/</loc>
     <lastmod>2020-07-31T17:02:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://compiuta.github.io/blog/2020-07-31-test-blog/</loc>
+    <loc>https://example.com/blog/2020-07-31-test-blog/</loc>
     <lastmod>2020-07-31T17:02:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://compiuta.github.io/blog/posts/news-3rd-copy/</loc>
+    <loc>https://example.com/blog/posts/news-3rd-copy/</loc>
     <lastmod>2017-01-04T15:04:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://compiuta.github.io/blog/posts/news/</loc>
+    <loc>https://example.com/blog/posts/news/</loc>
     <lastmod>2017-01-04T15:04:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://compiuta.github.io/about/</loc>
+    <loc>https://example.com/about/</loc>
   </url>
   
   <url>
-    <loc>https://compiuta.github.io/categories/</loc>
+    <loc>https://example.com/categories/</loc>
   </url>
   
   <url>
-    <loc>https://compiuta.github.io/contact/</loc>
+    <loc>https://example.com/contact/</loc>
   </url>
   
   <url>
-    <loc>https://compiuta.github.io/tags/</loc>
+    <loc>https://example.com/tags/</loc>
   </url>
   
 </urlset>
